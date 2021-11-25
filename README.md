@@ -18,7 +18,7 @@
 - 📦 MongoDB
 - 🆚 vue.js
 
-## Installation
+## Installation ( Under construction, once ready you could )
 - ⬇️ Download the latest release from GitHub
 - 📦 npm install
 - 🔌 Run the app with `npm start`
