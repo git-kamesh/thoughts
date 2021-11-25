@@ -19,7 +19,7 @@
 - 🆚 vue.js
 
 ## Follow
-- Watch and start this repo to get notified
+- 👁 Watch and 💖 star this repo to get notified
 
 ## Installation ( Under construction, once ready you could )
 - ⬇️ Download the latest release from GitHub
