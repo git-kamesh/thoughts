@@ -20,6 +20,7 @@
 
 ## Follow
 - 👁 Watch and 💖 star this repo to get notified
+- Twitter: https://twitter.com/kamesh_koops
 
 ## Installation ( Under construction, once ready you could )
 - ⬇️ Download the latest release from GitHub
